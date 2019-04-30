@@ -1,0 +1,21 @@
+1a)
+Für den Begriff der Intelligenz gibt es unterschiedliche Definitionen. Im Kern gibt es zwei Sichtweisen aus der Definitionen erfolgen. Die, welche Intelligenz als geistige Leistungsfähigkeit beschreibt, mit das eigene Denken und Handeln reflektiert und angepasst werden kann und die, welche Intelligenz im Durchführen einer bestimmten Aufgabe zum Erreichen eines bestimmten Zieles erkennt.
+Erstere wird im Allgemeinen dem Menschen und anderen lebendigen Wesen zugesprochen, währenddessen Letztere im Zusammenhang mit Maschinen verwendet wird.
+
+In der Wissenschaft wird die erstere als starke KI und letztere als schwache KI bezeichnet.
+
+b)
+Der Turing Test beschreibt ein Experiment, in dem ein Mensch über ein Computer-Interface durch Kommunikation herausfinden soll, ob sein Gegenüber ein Mensch, oder eine Maschine ist.
+Kann er den Unterschied nicht feststellen, so gilt die Maschine nach Turing als intelligent.
+
+Eliza ist eine Software, welche für den Turing Test entwickelt wurde.
+Siehe : https://www.masswerk.at/elizabot/ und >https://blog.oxforddictionaries.com/2012/06/22/turing-test/
+
+Joseph Weizenbaum war ein Pionier der Informationstechnik, er forschte an KI Themen und Rechnernetzen.
+https://gi.de/persoenlichkeiten/joseph-weizenbaum/
+Alan Turing gilt als Vater der theoretischen Informatik. Er arbeitete im Bereich der Kryptologie und Computertechnik.
+
+c)
+Emergenz beschreibt die Entstehung neuer Eigenschaften eines Systems, sobald seine Komponenten zusammenarbeiten. Die resultiernde Eigenschaft ist dabei aus den einzelnen Komponenten nicht ersichtlich.
+
+Fulguration ist ein Synonym für Emergenz.
